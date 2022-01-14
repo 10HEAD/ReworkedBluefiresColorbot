@@ -1,0 +1,22 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Das Zwischenverzeichnis (x64\Release\) enthält freigegebene Dateien aus einem anderen Projekt (BlueFireColorbot.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  main.cpp
+C:\Users\11C\Documents\fire\20HEAD\main.cpp(78,14): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\11C\Documents\fire\20HEAD\main.cpp(88,18): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\11C\Documents\fire\20HEAD\main.cpp(91,28): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\11C\Documents\fire\20HEAD\main.cpp(178,31): warning C4244: "return": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\11C\Documents\fire\20HEAD\main.cpp(185,31): warning C4244: "return": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\11C\Documents\fire\20HEAD\main.cpp(197,52): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\11C\Documents\fire\20HEAD\main.cpp(197,25): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\11C\Documents\fire\20HEAD\main.cpp(576,4): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\11C\Documents\fire\20HEAD\main.cpp(577,4): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\11C\Documents\fire\20HEAD\main.cpp(578,4): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\11C\Documents\fire\20HEAD\main.cpp(579,4): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\11C\Documents\fire\20HEAD\main.cpp(580,4): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\11C\Documents\fire\20HEAD\main.cpp(582,4): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\11C\Documents\fire\20HEAD\main.cpp(583,4): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\11C\Documents\fire\20HEAD\main.cpp(584,4): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\11C\Documents\fire\20HEAD\main.cpp(585,4): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\11C\Documents\fire\20HEAD\main.cpp(738,20): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  Code wird generiert.
+  Codegenerierung ist abgeschlossen.
+  20HEAD.vcxproj -> C:\Users\11C\Documents\fire\x64\Release\10HEAD-um.exe
